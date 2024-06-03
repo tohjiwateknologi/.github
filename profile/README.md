@@ -5,8 +5,6 @@
           <img width="300" src="https://tohjiwa.com/assets/img/tohjiwa_teknologi_logo.png" alt="Wasmer logo">
         </picture>
     </a>
-    <br>
-    
     <p>
         Build with Trust.
         
