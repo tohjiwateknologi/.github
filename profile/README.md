@@ -5,9 +5,11 @@
           <img width="300" src="https://tohjiwa.com/assets/img/tohjiwa_teknologi_logo.png" alt="Wasmer logo">
         </picture>
     </a>
+    <br />
     <p>
         Build with Trust.
-        
+    </p>
+    <p>
         we always strived to do more, and to do important and meaningful things with the resources we have
     </p>
 </div>
