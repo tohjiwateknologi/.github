@@ -6,9 +6,13 @@
         </picture>
     </a>
     <br>
-    <p>
-        <b>#BuildWithTrust.</b> We always strived to do more, and to do important and meaningful things with the resources we have.
-    </p>
 </div>
 
-[Visit Tohjiwa](https://tohjiwa.com)
+Tohjiwa Teknologi is a software development company focused on building reliable, scalable solutions for enterprise clients.
+Our expertise spans web applications, mobile apps, desktop software, and embedded systems, tailored to meet complex business needs with precision and efficiency.
+
+We help organizations transform ideas into high-performance digital products through thoughtful design, clean architecture, and robust engineering.
+
+Discover more about our projects and services at [tohjiwa.com](https://tohjiwa.com).
+
+**#BuildWithTrust.** We always strive to do more, and to do important and meaningful things with the resources we have.
